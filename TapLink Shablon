@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Мой сайт</title>
+    <style>
+        .avatar {
+            border-radius: 50%;
+            width: 100px; /* Размер аватарки */
+            height: 100px;
+            background-color: #ccc; /* Цвет фона */
+        }
+        .button {
+            display: block;
+            width: 200px; /* Ширина кнопок */
+            margin: 20px auto; /* Отступы между кнопками */
+            padding: 10px;
+            text-align: center;
+            background-color: #007bff; /* Цвет кнопок */
+            color: #fff;
+            text-decoration: none;
+            border-radius: 5px;
+        }
+    </style>
+</head>
+<body>
+    <div class="avatar"></div> <!-- Вставьте сюда ссылку на свою аватарку -->
+    <a href="#" class="button">Название</a>
+    <p>Описание</p>
+    <a href="#" class="button">Название</a>
+    <p>Описание</p>
+    <a href="#" class="button">Название</a>
+    <p>Описание</p>
+    <a href="#" class="button">Название</a>
+    <p>Описание</p>
+    <a href="#" class="button">Название</a>
+    <p>Описание</p>
+</body>
+</html>
